@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSC.NAT.Relay", "OSC.NAT.Relay\OSC.NAT.Relay.csproj", "{32800081-2DED-47B2-8197-A53B8462F08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32800081-2DED-47B2-8197-A53B8462F08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32800081-2DED-47B2-8197-A53B8462F08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32800081-2DED-47B2-8197-A53B8462F08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32800081-2DED-47B2-8197-A53B8462F08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE54FD3-CA88-43C4-AE0E-7B5A90C73477}
+	EndGlobalSection
+EndGlobal
